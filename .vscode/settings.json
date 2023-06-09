@@ -1,0 +1,6 @@
+{
+  "editor.formatOnSave": false, // desativa o prettier caso tenha plugin
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": true 
+  }
+}
